@@ -1,0 +1,9 @@
+.ghostLeg {
+
+}
+
+.ghostLeg th {
+  border-style: solid;
+  border-color: black;
+  border-width: 0 0 0 3px;
+}
